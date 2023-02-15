@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/danakematian/static/css/main.0c4edd23.css",
+    "main.css": "/danakematian/static/css/main.ca51c95c.css",
     "main.js": "/danakematian/static/js/main.2de693fa.js",
     "static/media/balam.png": "/danakematian/static/media/balam.c06a6a34cc1e0986ac5a.png",
     "static/media/pemkot.jpg": "/danakematian/static/media/pemkot.0d8b77934bb0c24501bf.jpg",
     "static/media/remove.png": "/danakematian/static/media/remove.3c662b752278fc52f408.png",
     "static/media/edit.png": "/danakematian/static/media/edit.20b23789e3450cf5cf5f.png",
     "index.html": "/danakematian/index.html",
-    "main.0c4edd23.css.map": "/danakematian/static/css/main.0c4edd23.css.map",
+    "main.ca51c95c.css.map": "/danakematian/static/css/main.ca51c95c.css.map",
     "main.2de693fa.js.map": "/danakematian/static/js/main.2de693fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c4edd23.css",
+    "static/css/main.ca51c95c.css",
     "static/js/main.2de693fa.js"
   ]
 }
